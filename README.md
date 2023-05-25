@@ -83,7 +83,7 @@ AutoTrader is very well documented in-code and on [Read the Docs](https://autotr
 Example strategies can be found in the [demo repository](https://github.com/kieran-mackle/autotrader-demo).
 
 
-## Backtest Demo
+## Backtest Demos
 The chart below is produced by a backtest of the MACD trend strategy documented in the 
 [tutorials](https://autotrader.readthedocs.io/en/latest/tutorials/building-strategy.html) (and available in the 
 [demo repository](https://github.com/kieran-mackle/autotrader-demo)). Entry signals are defined by MACD crossovers, with exit targets defined
